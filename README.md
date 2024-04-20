@@ -50,7 +50,7 @@ The sales analysis project involves the following steps:
 
 The sales analysis project provides valuable insights into sales performance, enabling informed decision-making and strategic planning. By leveraging data-driven approaches, businesses can optimize their sales strategies, enhance customer satisfaction, and drive growth.
 
-If you're interested in exploring the analysis in detail, you can view the Jupyter Notebook file [SalesAnalysis.ipynb](link-to-your-repo/SalesAnalysis.ipynb) in the repository. This notebook contains the code implementation, visualizations, and detailed explanations of the analysis steps.
+If you're interested in exploring the analysis in detail, you can view the Jupyter Notebook file [SalesAnalysis.ipynb](github.com/geeky-brahma/SalesAnalysis/SalesAnalysis.ipynb) in the repository. This notebook contains the code implementation, visualizations, and detailed explanations of the analysis steps.
 
 Feel free to delve into the notebook to gain deeper insights into the sales data and discover additional findings!
 
